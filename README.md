@@ -353,7 +353,8 @@ For issues or questions:
 
 ## License
 
-This project is created for Kirembe Secondary School.
+This project is created for Kirembe Secondary School by Pambu A.W.
+copyright reserved
 
 ## Version
 
