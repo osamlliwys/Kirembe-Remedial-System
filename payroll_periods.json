@@ -1,0 +1,152 @@
+[
+  {
+    "term": 2,
+    "week": 6,
+    "opened_at": "11/06/2026, 11:50:25",
+    "closed_at": "12/06/2026, 10:42:21",
+    "status": "closed",
+    "teacher_total": 10300.0,
+    "staff_total": 2200.0,
+    "grand_total": 12500.0
+  },
+  {
+    "term": 2,
+    "week": 6,
+    "opened_at": "12/06/2026, 10:17:38",
+    "closed_at": "12/06/2026, 10:42:21",
+    "status": "closed",
+    "teacher_total": 10300.0,
+    "staff_total": 2200.0,
+    "grand_total": 12500.0
+  },
+  {
+    "term": 2,
+    "week": 7,
+    "opened_at": "17/06/2026, 13:47:05",
+    "closed_at": "17/06/2026, 14:21:31",
+    "status": "closed",
+    "teacher_total": 3200.0,
+    "staff_total": 1600.0,
+    "grand_total": 4800.0
+  },
+  {
+    "term": 2,
+    "week": 7,
+    "opened_at": "17/06/2026, 14:28:57",
+    "closed_at": "17/06/2026, 14:33:29",
+    "status": "closed",
+    "teacher_total": 3200.0,
+    "staff_total": 1600.0,
+    "grand_total": 4800.0
+  },
+  {
+    "term": 2,
+    "week": 2,
+    "opened_at": "08/07/2026, 14:53:41",
+    "closed_at": "08/07/2026, 14:55:42",
+    "status": "closed",
+    "teacher_total": 7400.0,
+    "staff_total": 0.0,
+    "grand_total": 7400.0
+  },
+  {
+    "term": 1,
+    "week": 9,
+    "opened_at": "08/07/2026, 14:58:12",
+    "closed_at": "08/07/2026, 15:20:46",
+    "status": "closed",
+    "teacher_total": 8700.0,
+    "staff_total": 0.0,
+    "grand_total": 8700.0
+  },
+  {
+    "term": 1,
+    "week": 9,
+    "opened_at": "08/07/2026, 15:15:05",
+    "closed_at": "08/07/2026, 15:20:46",
+    "status": "closed",
+    "teacher_total": 8700.0,
+    "staff_total": 0.0,
+    "grand_total": 8700.0
+  },
+  {
+    "term": 2,
+    "week": 10,
+    "opened_at": "09/07/2026, 10:38:24",
+    "closed_at": "16/07/2026, 15:54:53",
+    "status": "closed",
+    "teacher_total": 6200.0,
+    "staff_total": 600.0,
+    "grand_total": 6800.0
+  },
+  {
+    "term": 2,
+    "week": 7,
+    "opened_at": "15/07/2026, 16:19:26",
+    "closed_at": "15/07/2026, 16:21:10",
+    "status": "closed",
+    "teacher_total": 3200.0,
+    "staff_total": 1000.0,
+    "grand_total": 4200.0
+  },
+  {
+    "term": 2,
+    "week": 6,
+    "opened_at": "15/07/2026, 16:21:44",
+    "closed_at": "15/07/2026, 16:23:15",
+    "status": "closed",
+    "teacher_total": 9500.0,
+    "staff_total": 1600.0,
+    "grand_total": 11100.0
+  },
+  {
+    "term": 2,
+    "week": 10,
+    "opened_at": "16/07/2026, 15:16:12",
+    "closed_at": "16/07/2026, 15:54:53",
+    "status": "closed",
+    "teacher_total": 6200.0,
+    "staff_total": 600.0,
+    "grand_total": 6800.0
+  },
+  {
+    "term": 2,
+    "week": 10,
+    "opened_at": "16/07/2026, 15:46:39",
+    "closed_at": "16/07/2026, 15:54:53",
+    "status": "closed",
+    "teacher_total": 6200.0,
+    "staff_total": 600.0,
+    "grand_total": 6800.0
+  },
+  {
+    "term": 2,
+    "week": 11,
+    "opened_at": "16/07/2026, 16:16:00",
+    "closed_at": "16/07/2026, 16:22:01",
+    "status": "closed",
+    "teacher_total": 3600.0,
+    "staff_total": 0.0,
+    "grand_total": 3600.0
+  },
+  {
+    "term": 3,
+    "week": 2,
+    "opened_at": "15/09/2026, 21:31:45",
+    "closed_at": "15/09/2026, 21:39:36",
+    "status": "closed",
+    "teacher_total": 7300.0,
+    "staff_total": 400.0,
+    "grand_total": 7700.0
+  },
+  {
+    "term": 3,
+    "week": 3,
+    "opened_at": "23/09/2026, 15:42:28",
+    "closed_at": "23/09/2026, 15:56:00",
+    "status": "closed",
+    "teacher_total": 8100.0,
+    "staff_total": 200.0,
+    "grand_total": 8300.0
+  }
+]
